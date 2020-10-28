@@ -1,4 +1,5 @@
 <?php include_once 'app/function.php' ?>
+<?php include_once 'app/db.php' ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,6 +19,8 @@
 		testFunc();
 
 	 ?>
+
+	 
 
 
 
