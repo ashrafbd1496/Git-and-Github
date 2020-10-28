@@ -14,12 +14,19 @@
 	
 	<?php 
 
-		echo "<h2>Learning Git and Github</h2>";
 
-		testFunc();
 
 	 ?>
+	 <div class="container" style="margin: 0 auto; width: 500px;">
+	 		<h2>Demo Form</h2>
+	 	 <form action="">
+	 	<input type="text" name="fname" placeholder="First Name">
+	 	<input type="text" name="lname" placeholder="Last Name">
+	 	<input type="text" name="cell" placeholder="Cell">
+	 </form>
 
+	 </div>
+	
 	 
 
 
