@@ -1,2 +1,4 @@
 doc.txt
 pictures/
+
+composer.json
